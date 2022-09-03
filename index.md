@@ -1,8 +1,8 @@
 # Sophia's First CS193 Homework
--I like that CS193 doesn't meet at extreme hours (at least for me)
--I like that CS193 is pink on my schedule
--I like that we're learning to use GitHub (which should be helpful in the future)
--I like how clear all the homework directions were
+- I like that CS193 doesn't meet at extreme hours (at least for me)
+- I like that CS193 is pink on my schedule
+- I like that we're learning to use GitHub (which should be helpful in the future)
+- I like how clear all the homework directions were
 
 ## Welcome to GitHub Pages
 
